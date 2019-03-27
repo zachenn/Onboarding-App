@@ -132,7 +132,7 @@
 				8B599F51221E2E680048B892 /* Customized UIKit */,
 				8B599F40221CA87F0048B892 /* KYC Sign Up */,
 				8B599F3D221CA2300048B892 /* Customer Types */,
-				8B599F2A221CA1BA0048B892 /* Koi Compliance */,
+				8B599F2A221CA1BA0048B892 /* Onboarding App */,
 				8B599F5C2220CF6B0048B892 /* Other */,
 			);
 			sourceTree = "<group>";
@@ -146,7 +146,7 @@
 			path = ..;
 			sourceTree = "<group>";
 		};
-		8B599F2A221CA1BA0048B892 /* Koi Compliance */ = {
+		8B599F2A221CA1BA0048B892 /* Onboarding App */ = {
 			isa = PBXGroup;
 			children = (
 				8B599F2B221CA1BA0048B892 /* AppDelegate.swift */,
@@ -155,7 +155,7 @@
 				8B599F34221CA1BD0048B892 /* LaunchScreen.storyboard */,
 				8B599F37221CA1BD0048B892 /* Info.plist */,
 			);
-			path = "Koi Compliance";
+			path = "Onboarding App";
 			sourceTree = "<group>";
 		};
 		8B599F3D221CA2300048B892 /* Customer Types */ = {
