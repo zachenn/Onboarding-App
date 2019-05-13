@@ -22,3 +22,6 @@ It is built in native iOS using Swift as well as varying tools, frameworks, and 
 
 ### User Experience
 * *3rd party frameworks*
+
+### Security
+* *HTTPS*
